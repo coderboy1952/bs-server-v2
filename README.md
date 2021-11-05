@@ -17,7 +17,7 @@ For Ubuntu16.04 or Up
 
 For Installing Scripts
 
-    git clone https://github.com/coderboy1952/bs-server
+    git clone https://github.com/coderboy1952/bs-server-v2
     
 Command For Installing Apache On Server
 
@@ -32,7 +32,7 @@ NOTE: Username can be `root, ubuntu, google...etc`
     
 ## [TO START BOMBSQUAD SERVER]
 ```
-cd bs-server
+cd bs-server-v2
 ```
 ```
 chmod 777 bs_headless
